@@ -1,0 +1,10 @@
+# Ignore Compiled Object Files
+MDK-ARM/WordClock/*.d
+MDK-ARM/WordClock/*.o
+MDK-ARM/WordClock/*.dep
+MDK-ARM/WordClock/*.htm
+MDK-ARM/WordClock/*.lnp
+MDK-ARM/WordClock/*.map
+MDK-ARM/WordClock/*.sct
+
+.vscode/
